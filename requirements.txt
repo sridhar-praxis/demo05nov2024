@@ -43,7 +43,7 @@ kiwisolver==1.4.4
 linkify-it-py==2.0.2
 lm-dataformat==0.0.20
 loralib==0.1.1
-markdown-it-py==3.0.0
+markdown-it-py
 MarkupSafe==3.0.2
 matplotlib==3.7.1
 mdit-py-plugins==0.3.3
