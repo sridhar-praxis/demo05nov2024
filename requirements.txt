@@ -1,6 +1,6 @@
 absl-py==1.4.0
 accelerate==1.1.0
-alt-profanity-check==1.2.2
+alt-profanity-check
 altair==5.4.1
 APScheduler==3.10.1
 arrow==1.2.3
